@@ -1,0 +1,18 @@
+[33mcommit 058de5b4c9034cda666f7fafb2bd1c50a7d838ac[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mbookstore-serializers[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 45157c6 1cb5433
+Author: Rodriggo1987 <nasscimmento@hotmail.com>
+Date:   Sat Mar 1 20:52:21 2025 -0300
+
+    Merge branch 'main' of github.com:Rodriggo1987/bookstore
+
+[33mcommit 45157c6b0872f96a9772a797b409ad8dd804053b[m
+Author: Rodriggo1987 <nasscimmento@hotmail.com>
+Date:   Sat Mar 1 20:24:23 2025 -0300
+
+    project setup
+
+[33mcommit 1cb543320ab6d93504ac8c163b833128a826869a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Rodriggo Nascimento <79999840+Rodriggo1987@users.noreply.github.com>
+Date:   Tue Feb 25 16:56:42 2025 -0300
+
+    Initial commit
